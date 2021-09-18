@@ -1,0 +1,9 @@
+.example2 {
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+  /* margin-left: 50%; */
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}

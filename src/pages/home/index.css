@@ -1,0 +1,36 @@
+
+/* div */
+.login-page{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:#DEF3F4;
+  z-index: 99;
+}
+
+.backgroundBox{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../assets/img/bg1.jpg");
+  background-size: 100% 100%;
+  transition:all .5s;
+}
+
+.login-form {
+  width: 480px;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
+
+
+
